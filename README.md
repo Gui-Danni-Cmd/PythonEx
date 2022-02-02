@@ -1,0 +1,2 @@
+# PythonEx
+Exercícios python3
