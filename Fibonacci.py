@@ -12,6 +12,7 @@ for i in range(valorSequencial):
     valorInicial = valorDois
     valorDois = valorFinal
     valorFinal = valorInicial + valorDois
+input("\nPressione <ENTER> para continuar! ")
 
 
 
